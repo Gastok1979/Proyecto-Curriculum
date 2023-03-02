@@ -1,0 +1,30 @@
+section{
+    text-align: justify;
+    padding: 20px;
+    width: 80%;
+}
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    text-align: center;
+    align-self: center;
+    border-style: outset;
+    background-color: aqua;
+}
+h2{
+    font-weight: bold;
+    text-align: center;
+    border: brown;
+    border-style: solid;
+    border-width: 2px;
+    padding: 3px;
+    background-color: cornsilk;
+    width: 35%;
+}
+h3{
+    color: rgb(8, 80, 161);
+    margin-left: 20px;
+    text-decoration-line: underline;
+}
+body{
+    background-color: beige;
+}
